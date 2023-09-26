@@ -1,1 +1,1 @@
-Amazon Web Service (AWS) ile backend oluşturarak , TypeScript ile Amazon-App uygulaması yapımı.
+Amazon Web Service (AWS) ile backend oluşturarak , React-Native ile Android Amazon-App uygulaması yapımı.
